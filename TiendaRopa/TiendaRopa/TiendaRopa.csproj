@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="modelo\Camisa.cs" />
     <Compile Include="modelo\Cotizacion.cs" />
+    <Compile Include="modelo\Pantalon.cs" />
     <Compile Include="modelo\Prenda.cs" />
     <Compile Include="modelo\Tienda.cs" />
     <Compile Include="modelo\Vendedor.cs" />

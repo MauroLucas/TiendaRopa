@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TiendaRopa.modelo
 {
-    class Prenda
+    abstract class Prenda
     {
         private bool esPremium;
         private float precio;
@@ -20,6 +20,7 @@ namespace TiendaRopa.modelo
             this.cantStock = cantStock;
         }
 
+        public abstract float precioFinal();        
        
         public float Precio { get => precio; set => precio = value; }
         public int CantStock { get => cantStock; set => cantStock = value; }
