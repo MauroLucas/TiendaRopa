@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="modelo\Cotizacion.cs" />
+    <Compile Include="modelo\Prenda.cs" />
+    <Compile Include="modelo\Tienda.cs" />
     <Compile Include="modelo\Vendedor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
