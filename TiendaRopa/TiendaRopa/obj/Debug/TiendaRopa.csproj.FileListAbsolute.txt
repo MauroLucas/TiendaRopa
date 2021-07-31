@@ -1,0 +1,7 @@
+C:\Users\mapereyra\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Tienda Ropa\TiendaRopa\TiendaRopa\TiendaRopa\bin\Debug\TiendaRopa.exe.config
+C:\Users\mapereyra\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Tienda Ropa\TiendaRopa\TiendaRopa\TiendaRopa\bin\Debug\TiendaRopa.exe
+C:\Users\mapereyra\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Tienda Ropa\TiendaRopa\TiendaRopa\TiendaRopa\bin\Debug\TiendaRopa.pdb
+C:\Users\mapereyra\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Tienda Ropa\TiendaRopa\TiendaRopa\TiendaRopa\obj\Debug\TiendaRopa.csproj.AssemblyReference.cache
+C:\Users\mapereyra\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Tienda Ropa\TiendaRopa\TiendaRopa\TiendaRopa\obj\Debug\TiendaRopa.csproj.CoreCompileInputs.cache
+C:\Users\mapereyra\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Tienda Ropa\TiendaRopa\TiendaRopa\TiendaRopa\obj\Debug\TiendaRopa.exe
+C:\Users\mapereyra\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Tienda Ropa\TiendaRopa\TiendaRopa\TiendaRopa\obj\Debug\TiendaRopa.pdb
