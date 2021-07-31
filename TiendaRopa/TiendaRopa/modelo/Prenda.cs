@@ -8,20 +8,21 @@ namespace TiendaRopa.modelo
 {
     class Prenda
     {
-        private String calidad;
+        private bool esPremium;
         private float precio;
         private int cantStock;
 
         public Prenda() { }
-        public Prenda(string calidad, float precio, int cantStock)
+        public Prenda(bool esPremium, float precio, int cantStock)
         {
-            this.calidad = calidad;
+            this.esPremium = esPremium;
             this.precio = precio;
             this.cantStock = cantStock;
         }
 
-        public string Calidad { get => calidad; set => calidad = value; }
+       
         public float Precio { get => precio; set => precio = value; }
         public int CantStock { get => cantStock; set => cantStock = value; }
+        public bool EsPremium { get => esPremium; set => esPremium = value; }
     }
 }
